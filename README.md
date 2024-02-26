@@ -24,7 +24,7 @@ pip install gradio
 - **Importing Libraries**: Install and import the required libraries, including transformers, TensorFlow Datasets, Rouge Score, and Gradio.
 - **Setting Hyper-Parameters**: Define hyperparameters such as batch size, learning rate, and device (CPU/GPU).
 - **Load Dataset and Storing in Files**: Load the CNN/DailyMail dataset and store it in files for training.
-- **Load the Basic T5 Model**: Load the T5 model for text summarization.
+- **Load the Basic T5 Model**: Load the T5 model for text summarisation.
 - **Tokenize Data**: Tokenize the dataset for training and evaluation.
 - **Training Model**: Train the T5 model for text summarization using the provided dataset.
 - **Calculating Confidence (Rouge Score)**: Evaluate the model's performance using Rouge scores.
